@@ -1,3 +1,4 @@
+# This game lets the player catch the falling stars to score points.
 import pygame
 import time 
 import random
